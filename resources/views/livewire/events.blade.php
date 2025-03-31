@@ -32,9 +32,9 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M11 19C15.4182 19 19 15.4183 19 11C19 6.58172 15.4182 3 11 3C6.58169 3 2.99997 6.58172 2.99997 11C2.99997 15.4183 6.58169 19 11 19Z"
-                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 <path d="M21 21L16.65 16.65" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                    stroke-linejoin="round"></path>
+                                    stroke-linejoin="round" />
                             </svg>
                         </button>
                         <input class="search__input" type="text" placeholder="Search...">
@@ -45,11 +45,6 @@
                             <option value="1">List</option>
                             <option value="2">List 2</option>
                         </select>
-                        <div class="select-selected">List</div>
-                        <div class="select-items select-hide">
-                            <div>List</div>
-                            <div>List 2</div>
-                        </div>
                     </div>
                     <div class="filters-panel-form__select custom-select">
                         <select>
@@ -57,11 +52,6 @@
                             <option value="1">Upcoming</option>
                             <option value="2">Upcoming 2</option>
                         </select>
-                        <div class="select-selected">Upcoming</div>
-                        <div class="select-items select-hide">
-                            <div>Upcoming</div>
-                            <div>Upcoming 2</div>
-                        </div>
                     </div>
                 </form>
             </div>
@@ -105,7 +95,7 @@
                         <ul class="card__list card-list">
                             <li class="card-list__item">
                                 <p class="card-list__text">
-                                    Virtual &amp; Melbourne, Australia
+                                    Virtual & Melbourne, Australia
                                 </p>
                             </li>
                             <li class="card-list__item">
@@ -237,6 +227,6 @@
             </div>
         </div>
     </section>
-@endsection   
-    
-    <span></span>
+@endsection
+
+<span></span>

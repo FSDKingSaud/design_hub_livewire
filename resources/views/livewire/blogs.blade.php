@@ -15,9 +15,9 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M11 19C15.4182 19 19 15.4183 19 11C19 6.58172 15.4182 3 11 3C6.58169 3 2.99997 6.58172 2.99997 11C2.99997 15.4183 6.58169 19 11 19Z"
-                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 <path d="M21 21L16.65 16.65" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                    stroke-linejoin="round"></path>
+                                    stroke-linejoin="round" />
                             </svg>
                         </button>
                         <input class="search__input" type="text" placeholder="Search...">
@@ -28,11 +28,6 @@
                             <option value="1">All Categories</option>
                             <option value="2">All Categories 2</option>
                         </select>
-                        <div class="select-selected">All Categories</div>
-                        <div class="select-items select-hide">
-                            <div>All Categories</div>
-                            <div>All Categories 2</div>
-                        </div>
                     </div>
                     <div class="filters-panel-form__select custom-select">
                         <select>
@@ -40,11 +35,6 @@
                             <option value="1">Order by Date</option>
                             <option value="2">Order by Date 2</option>
                         </select>
-                        <div class="select-selected">Order by Date</div>
-                        <div class="select-items select-hide">
-                            <div>Order by Date</div>
-                            <div>Order by Date 2</div>
-                        </div>
                     </div>
                 </form>
             </div>
@@ -371,7 +361,7 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M8.66663 4L12.1952 7.5286C12.4556 7.78894 12.4556 8.21106 12.1952 8.4714L8.66663 12M4.66663 4L8.19522 7.5286C8.45557 7.78894 8.45557 8.21106 8.19522 8.4714L4.66663 12"
-                                    stroke="white" stroke-width="1.5" stroke-linecap="round"></path>
+                                    stroke="white" stroke-width="1.5" stroke-linecap="round" />
                             </svg>
                         </a>
                     </li>
@@ -379,6 +369,6 @@
             </div>
         </div>
     </section>
-@endsection   
-    
-    <span></span>
+@endsection
+
+<span></span>

@@ -232,6 +232,6 @@
             </div>
         </div>
     </section>
-@endsection   
-    
-    <span></span>
+@endsection
+
+<span></span>

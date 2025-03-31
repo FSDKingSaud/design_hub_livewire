@@ -26,9 +26,9 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M11 19C15.4182 19 19 15.4183 19 11C19 6.58172 15.4182 3 11 3C6.58169 3 2.99997 6.58172 2.99997 11C2.99997 15.4183 6.58169 19 11 19Z"
-                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 <path d="M21 21L16.65 16.65" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                    stroke-linejoin="round"></path>
+                                    stroke-linejoin="round" />
                             </svg>
                         </button>
                         <input class="search__input" type="text" placeholder="Search...">
@@ -39,11 +39,6 @@
                             <option value="1">Newest Registered</option>
                             <option value="2">Newest Registered 2</option>
                         </select>
-                        <div class="select-selected">Newest Registered</div>
-                        <div class="select-items select-hide">
-                            <div>Newest Registered</div>
-                            <div>Newest Registered 2</div>
-                        </div>
                     </div>
                 </form>
             </div>
@@ -66,15 +61,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -86,7 +81,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -137,15 +132,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -157,7 +152,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -208,15 +203,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -228,7 +223,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -279,15 +274,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -299,7 +294,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -350,15 +345,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -370,7 +365,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -421,15 +416,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -441,7 +436,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -492,15 +487,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -512,7 +507,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -563,15 +558,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -583,7 +578,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -634,15 +629,15 @@
                                         <path
                                             d="M10.6667 14V12.6667C10.6667 11.9594 10.3857 11.2811 9.88563 10.781C9.38553 10.281 8.70725 10 8.00001 10H4.00001C3.29277 10 2.61449 10.281 2.11439 10.781C1.6143 11.2811 1.33334 11.9594 1.33334 12.6667V14"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path
                                             d="M6.00001 7.33333C7.47277 7.33333 8.66668 6.13943 8.66668 4.66667C8.66668 3.19391 7.47277 2 6.00001 2C4.52725 2 3.33334 3.19391 3.33334 4.66667C3.33334 6.13943 4.52725 7.33333 6.00001 7.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                         <path d="M12.6667 5.33331V9.33331" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                         <path d="M14.6667 7.33331H10.6667" stroke="#0E1218" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                            stroke-linecap="round" stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Add Friend
@@ -654,7 +649,7 @@
                                         <path
                                             d="M12.6667 9.33333C13.66 8.36 14.6667 7.19333 14.6667 5.66667C14.6667 4.69421 14.2804 3.76158 13.5927 3.07394C12.9051 2.38631 11.9725 2 11 2C9.82668 2 9.00001 2.33333 8.00001 3.33333C7.00001 2.33333 6.17334 2 5.00001 2C4.02755 2 3.09492 2.38631 2.40729 3.07394C1.71965 3.76158 1.33334 4.69421 1.33334 5.66667C1.33334 7.2 2.33334 8.36667 3.33334 9.33333L8.00001 14L12.6667 9.33333Z"
                                             stroke="#0E1218" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round"></path>
+                                            stroke-linejoin="round" />
                                     </svg>
                                     <span>
                                         Follow
@@ -714,7 +709,7 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M8.66663 4L12.1952 7.5286C12.4556 7.78894 12.4556 8.21106 12.1952 8.4714L8.66663 12M4.66663 4L8.19522 7.5286C8.45557 7.78894 8.45557 8.21106 8.19522 8.4714L4.66663 12"
-                                    stroke="white" stroke-width="1.5" stroke-linecap="round"></path>
+                                    stroke="white" stroke-width="1.5" stroke-linecap="round" />
                             </svg>
                         </a>
                     </li>
@@ -722,6 +717,6 @@
             </div>
         </div>
     </section>
-@endsection   
-    
-    <span></span>
+@endsection
+
+<span></span>
